@@ -1,9 +1,10 @@
 <div align='center'>
 <h1> Hello < My name is Laura Sofía Caicedo/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+  <h3> Software Engineer Student at Holberton School </h3>
   </div>
 <p align='center'>
 </p>
-  <h3> Software Engineer Student at Holberton School </h3>
+  
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
