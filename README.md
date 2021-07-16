@@ -42,7 +42,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
-<h2><img src = "https://i.imgur.com/jbvlrax.gif" width = 70px> </h2>
+<img src = "https://i.imgur.com/jbvlrax.gif" width = 70px>
   
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
