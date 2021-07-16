@@ -7,7 +7,7 @@
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <div align='center'>
-  <img src = "https://64.media.tumblr.com/95cfce28fb58d089948aa8acdaa91c0d/tumblr_inline_o4ju3vl3DG1u31z85_540.gifv" width = 100px>
+  <img src = "https://i.imgur.com/jbvlrax.gif" width = 100px>
   </div>
 <h2> About Me </h2>
 
