@@ -1,4 +1,7 @@
-<h1> Hello < My name is Laura Sofía Caicedo/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1><h1 align='center'>
+<center>
+<h1> Hello < My name is Laura Sofía Caicedo/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+</center>
+<h1 align='center'>
 <p align='center'>
 
 </p>
