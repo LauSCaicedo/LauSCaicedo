@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo)
@@ -9,7 +9,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src=https://www.enter.co/wp-content/uploads/2021/01/Becas-Holberton.png/>
+<img width="55%" align="right" alt="Github" src=https://www.enter.co/wp-content/uploads/2021/01/Becas-Holberton.png />
 
 
 - 🔭 I’m currently working on Holberton software projects.
