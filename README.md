@@ -3,7 +3,7 @@
   </div>
 <p align='center'>
 </p>
-  <h2> Software Engineer Student at Holberton School </h2>
+  <h3> Software Engineer Student at Holberton School </h3>
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
