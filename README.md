@@ -7,7 +7,7 @@
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media4.giphy.com/media/XcLeLDDZflyC4eAF4E/giphy.gif?cid=790b7611991a1263cb9e6e2a1303e3d824ca5264a97fddee&rid=giphy.gif&ct=s" width = 100px></h2>
+<h2> About Me <img src = "https://64.media.tumblr.com/95cfce28fb58d089948aa8acdaa91c0d/tumblr_inline_o4ju3vl3DG1u31z85_540.gifv" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src=https://www.enter.co/wp-content/uploads/2021/01/Becas-Holberton.png />
 
