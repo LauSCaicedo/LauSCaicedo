@@ -5,10 +5,10 @@
 <p align='center'>
 </p>
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
-
-
-<h2> About Me <img src = "https://64.media.tumblr.com/95cfce28fb58d089948aa8acdaa91c0d/tumblr_inline_o4ju3vl3DG1u31z85_540.gifv" width = 100px></h2>
 </div>
+
+<h2> About Me <img src = "https://64.media.tumblr.com/95cfce28fb58d089948aa8acdaa91c0d/tumblr_inline_o4ju3vl3DG1u31z85_540.gifv" width = 100px align='center'></h2>
+
 <img width="55%" align="right" alt="Github" src=https://www.enter.co/wp-content/uploads/2021/01/Becas-Holberton.png />
 
 
