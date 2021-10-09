@@ -8,12 +8,13 @@
 </div>
 <div align='center'>
   <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px>
-  <p align='right'>
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Purple)
-  
-  </p>
 </div>
+<p align='right'>
+  
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Purple)
+  
+</p>
+
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src=https://www.enter.co/wp-content/uploads/2021/01/Becas-Holberton.png />
