@@ -7,9 +7,11 @@
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <div align='center'>
-  <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px> 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=green&right_color=red)
-  </div>
+  <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=#00CDFF&right_color=red)
+  
+</div>
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src=https://www.enter.co/wp-content/uploads/2021/01/Becas-Holberton.png />
