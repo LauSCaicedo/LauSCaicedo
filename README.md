@@ -10,7 +10,7 @@
   <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px>
 
   
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Lightpurple)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Indigo)
   
 </div>
 
