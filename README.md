@@ -8,12 +8,12 @@
 </div>
 <div align='center'>
   <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px>
-</div>
 <p align='left'>
   
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Purple)
   
 </p>
+</div>
 
 <h2> About Me </h2>
 
