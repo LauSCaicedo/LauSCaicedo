@@ -43,7 +43,7 @@
  <h3 align="center">
 
    
-   ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=LauSCaicedo&show_icons=true&title_color=fff&icon_color=4B0082&text_color=48AAD8&bg_color=151515)
+   ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=LauSCaicedo&show_icons=true&title_color=fff&icon_color=AE00CD&text_color=48AAD8&bg_color=151515)
 
 
 </h3>
