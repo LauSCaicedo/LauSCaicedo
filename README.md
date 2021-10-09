@@ -9,7 +9,7 @@
 <div align='center'>
   <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px>
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=#00E8FF&right_color=red)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=#00E8FF&right_color=#00E8FF)
   
 </div>
 <h2> About Me </h2>
