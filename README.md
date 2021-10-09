@@ -7,7 +7,8 @@
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <div align='center'>
-  <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px> ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo)
+  <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px> 
+  <p> ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo) </p>
   </div>
 <h2> About Me </h2>
 
