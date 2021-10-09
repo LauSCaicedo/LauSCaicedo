@@ -7,7 +7,7 @@
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <div align='center'>
-  <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px>
+  <img src = "https://www.gifsanimados.org/data/media/118/robot-imagen-animada-0023.gif" width = 100px>
   </div>
 <h2> About Me </h2>
 
