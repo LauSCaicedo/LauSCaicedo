@@ -1,5 +1,5 @@
 <div align='center'>
-<img src = "https://miro.medium.com/max/1400/1*VAV0qXXE9yGjBYrGtJmJsw.jpeg" width = 1366px height = 180px>
+<img src = "https://miro.medium.com/max/1400/1*b_yiDEmuzlZjoPUgkEJcww.jpeg" width = 1366px height = 180px>
   <h3> Software Engineer Student at Holberton School </h3>
   </div>
 <p align='center'>
