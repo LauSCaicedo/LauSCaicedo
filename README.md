@@ -1,5 +1,5 @@
 <div align='center'>
-<h1> Hello < My name is Laura Sofía Caicedo/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<img src = "https://miro.medium.com/max/1400/1*VAV0qXXE9yGjBYrGtJmJsw.jpeg" width = 1366px height = 250px>
   <h3> Software Engineer Student at Holberton School </h3>
   </div>
 <p align='center'>
