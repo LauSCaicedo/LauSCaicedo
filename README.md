@@ -2,8 +2,6 @@
 <img src = "https://miro.medium.com/max/1400/1*b_yiDEmuzlZjoPUgkEJcww.jpeg" width = 1366px height = 200px>
   <h3> Software Engineer Student at Holberton School </h3>
   </div>
-<p align='center'>
-</p>
 <div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <div align='center'>
